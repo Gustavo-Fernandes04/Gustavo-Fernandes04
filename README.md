@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **gustavofariafernandes@usp.br**
 
-- ⚡ Hobbies **Gym and Games**
+- ⚡ Hobbies: **Gym and Games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
