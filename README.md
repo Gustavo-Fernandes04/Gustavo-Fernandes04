@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavo-fernandes04&label=Profile%20views&color=0e75b6&style=flat" alt="gustavo-fernandes04" /> </p>
 
-- 🌱 I’m currently learning **about OS and Networks**
+- 🌱 I’m currently learning about **OS and Networks**
 
-- 📫 How to reach me **gustavofariafernandes@usp.br**
+- 📫 How to reach me: **gustavofariafernandes@usp.br**
 
 - ⚡ Hobbies: **Gym and Games**
 
